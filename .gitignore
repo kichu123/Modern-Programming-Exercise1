@@ -1,0 +1,28 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+# Build directories
+Debug/
+Release/
+x64/
+x86/
+out/
+build/
+
+# Compiled files
+*.obj
+*.o
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.pch
+*.lib
+*.exp
+
+# Temporary files
+*.tmp
+*.log
